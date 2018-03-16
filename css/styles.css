@@ -2,6 +2,10 @@ h3 {
   text-align: center;
 }
 
+h4 {
+  font-weight: bold;
+}
+
 a {
   font-style: normal;
   list-style: none;
@@ -10,6 +14,10 @@ a {
 
 body {
   font-family: sans-serif;
+}
+
+footer {
+  text-align: center;
 }
 
 .jumbotron {
@@ -31,6 +39,9 @@ body {
   list-style-type: none;
 }
 
+.wiki {
+  font-style: italic;
+}
 #img1 {
   text-align: center;
   width: 100%;
