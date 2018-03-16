@@ -2,9 +2,23 @@ h3 {
   text-align: center;
 }
 
+a {
+  font-style: normal;
+  list-style: none;
+  color: black;
 }
 
-#about {
-  max-width: 400px;
-  max-height: 400px;
+.side-nav {
+  list-style-type: none;
+  text-align: left;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.col-md-4 {
+  text-align: center;
+}
+
+#snow-whiskey {
+  max-width: 70%;
 }
