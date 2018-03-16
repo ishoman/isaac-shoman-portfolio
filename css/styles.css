@@ -50,12 +50,16 @@ span {
 
 .backgroundinfo {
   text-align: left;
+  text-decoration: underline;
 }
 .jobtasks li {
   list-style-type: disc;
 }
 .wiki {
   font-style: italic;
+}
+.panel-body {
+  
 }
 #img1 {
   text-align: center;
