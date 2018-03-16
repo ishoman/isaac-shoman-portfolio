@@ -8,6 +8,13 @@ a {
   color: black;
 }
 
+body {
+  font-family: sans-serif;
+}
+
+.jumbotron {
+  margin-bottom: 10px;
+}
 .side-nav {
   list-style-type: none;
   text-align: left;
@@ -44,5 +51,5 @@ a {
   border: 0;}
 
 #snow-whiskey {
-  max-width: 70%;
+  width: 100%;
 }
