@@ -4,7 +4,7 @@
 
 ## By Isaac Shoman
 
-[Link to project- Aaron](https://ishoman.github.io/isaac-shoman-portfolio/),
+[Link to project.](https://ishoman.github.io/isaac-shoman-portfolio/),
 
 ## Description
 

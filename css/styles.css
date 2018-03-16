@@ -30,7 +30,8 @@ span {
   text-decoration: underline;
 }
 .jumbotron {
-
+  background-color: white;
+  text-decoration: underline;
   margin-bottom: 10px;
 }
 .side-nav {
@@ -60,6 +61,7 @@ span {
   font-style: italic;
 }
 .panel-heading {
+  background-color: white;
   border: 0;
 }
 #img1 {
