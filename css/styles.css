@@ -27,6 +27,10 @@ body {
   max-height: 100%;
 }
 
+.projectlist {
+  list-style-type: none;
+}
+
 #img1 {
   text-align: center;
   width: 100%;

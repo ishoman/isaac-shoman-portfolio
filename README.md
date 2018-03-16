@@ -1,15 +1,14 @@
-# Cupcake Jones Webpage
+# My Portfolio
 
-#### Cupcake Website for Epicodus, 03.14.2018
+#### My Project Portfolio, 03.16.2018
 
-## By Aaron Akbari-Mort, Isaac Shoman
+## By Isaac Shoman
 
-[Link to project- Aaron](https://aaronakbarimort.github.io/resort),
-[Link to project - Bobby](https://bobeartow.github.io/resort)
+[Link to project- Aaron](https://ishoman.github.io/isaac-shoman-portfolio/),
 
 ## Description
 
-A simple HTML, and CSS site for a fake cupcake shop to practice CSS class styling.
+(v1.) My initial project portfolio for including future projects. This will be continually updated as new projects are created and added.
 
 ## Setup
 
@@ -19,13 +18,12 @@ A simple HTML, and CSS site for a fake cupcake shop to practice CSS class stylin
 
 ## Technologies Used
 
-* HTML
-* CSS
+* Bootstrap
 * Git
 * GitHub
 
 ### Legal
 
-**Copyright (c) 2017 Aaron Akbari-Mort & Isaac Shoman**, All Rights Reserved.
+**Copyright (c) 2018 Isaac Shoman**, All Rights Reserved.
 
 This software is licensed under the _MIT license_.
