@@ -1,3 +1,11 @@
+h3 {
+  text-align: center;
+}
+.jumbotron {
+background-size: cover;
+}
+
 #about {
   max-height: 400px;
+
 }
