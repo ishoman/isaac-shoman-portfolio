@@ -30,6 +30,7 @@ span {
   text-decoration: underline;
 }
 .jumbotron {
+
   margin-bottom: 10px;
 }
 .side-nav {
@@ -58,8 +59,8 @@ span {
 .wiki {
   font-style: italic;
 }
-.panel-body {
-  
+.panel-heading {
+  border: 0;
 }
 #img1 {
   text-align: center;
