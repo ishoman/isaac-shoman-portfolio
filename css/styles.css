@@ -48,6 +48,12 @@ span {
   list-style-type: none;
 }
 
+.backgroundinfo {
+  text-align: left;
+}
+.jobtasks li {
+  list-style-type: disc;
+}
 .wiki {
   font-style: italic;
 }
